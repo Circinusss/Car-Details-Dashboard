@@ -1,1 +1,16 @@
 # Car-Details-Dashboard
+
+Interactive Dashboard using Python, Plotly and Streamlit.
+Dataset: https://www.kaggle.com/datasets/toramky/automobile-dataset
+
+Dashboard:
+https://github.com/Circinusss/Car-Details-Dashboard/blob/main/images/dashboard.png
+
+Ration of Gas powered vehicles to Diesel powered:
+https://github.com/Circinusss/Car-Details-Dashboard/blob/main/images/fuel_split.png
+
+% split of different body types:
+https://github.com/Circinusss/Car-Details-Dashboard/blob/main/images/%25_of_body_types.png
+
+Price Analysis of Brands:
+https://github.com/Circinusss/Car-Details-Dashboard/blob/main/images/prices_per_brand.png
